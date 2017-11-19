@@ -1,0 +1,8 @@
+﻿  Block2D.cpp
+  Block3D.cpp
+  ModelBuilder.cpp
+  PlaneFrame.cpp
+..\..\..\SRC\modelbuilder\PlaneFrame.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\modelbuilder\PlaneFrame.cpp(171): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  modelbuilder.vcxproj -> F:\OpenSeesR6236\Win64\proj\modelbuilder\.\..\..\lib\debug\modelbuilder.lib

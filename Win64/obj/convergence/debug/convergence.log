@@ -1,0 +1,19 @@
+﻿  CTestEnergyIncr.cpp
+  CTestFixedNumIter.cpp
+  CTestNormDispIncr.cpp
+  CTestNormUnbalance.cpp
+  CTestPFEM.cpp
+..\..\..\SRC\convergenceTest\CTestPFEM.cpp(92): warning C4101: 'bc': unreferenced local variable
+..\..\..\SRC\convergenceTest\CTestPFEM.cpp(297): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\convergenceTest\CTestPFEM.cpp(298): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\convergenceTest\CTestPFEM.cpp(299): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\convergenceTest\CTestPFEM.cpp(300): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  CTestRelativeEnergyIncr.cpp
+  CTestRelativeNormDispIncr.cpp
+  CTestRelativeNormUnbalance.cpp
+  CTestRelativeTotalNormDispIncr.cpp
+  ConvergenceTest.cpp
+  NormDispAndUnbalance.cpp
+  NormDispOrUnbalance.cpp
+  Generating Code...
+  convergence.vcxproj -> F:\OpenSeesR6236\Win64\proj\convergence\.\..\..\lib\debug\convergence.lib

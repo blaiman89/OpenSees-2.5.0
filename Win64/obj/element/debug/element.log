@@ -1,0 +1,848 @@
+﻿  CorotCrdTransf3d14.cpp
+  LinearCrdTransf3d14.cpp
+  PDeltaCrdTransf3d14.cpp
+  ComponentElement2d.cpp
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(883): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(888): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(889): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(896): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(897): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(904): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(909): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(910): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(916): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(917): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\componentElement\ComponentElement2d.cpp(918): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TaperedDispBeamColumnSmoothing3d.cpp
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(347): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1637): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1643): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1645): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1649): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1780): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1786): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1788): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\TaperedDispBeamColumnSmoothing3d.cpp(1792): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ElastomericBearingBoucWenMod3d.cpp
+..\..\..\SRC\element\elastomericBearing\ElastomericBearingBoucWenMod3d.cpp(64): warning C4101: 'argi': unreferenced local variable
+..\..\..\SRC\element\elastomericBearing\ElastomericBearingBoucWenMod3d.cpp(64): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\elastomericBearing\ElastomericBearingBoucWenMod3d.cpp(64): warning C4101: 'i': unreferenced local variable
+  Element.cpp
+..\..\..\SRC\element\Element.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\Element.cpp(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\Element.cpp(443): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\Element.cpp(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ElementalLoad.cpp
+  TclTaperedForceBeamColumnCommand.cpp
+..\..\..\SRC\element\forceBeamColumn\TclTaperedForceBeamColumnCommand.cpp(192): warning C4101: 'GJ': unreferenced local variable
+..\..\..\SRC\element\forceBeamColumn\TclTaperedForceBeamColumnCommand.cpp(192): warning C4101: 'HP': unreferenced local variable
+  FPBearingPTV.cpp
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\FPBearingPTV.cpp(1237): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Information.cpp
+..\..\..\SRC\element\Information.cpp(170): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\Information.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\Information.cpp(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\Information.cpp(179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\Information.cpp(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  MVLEM.cpp
+  SFI_MVLEM.cpp
+  ShellDKGQ.cpp
+..\..\..\SRC\element\shell\ShellDKGQ.cpp(355): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellDKGQ.cpp(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ShellMITC9.cpp
+..\..\..\SRC\element\shell\ShellMITC9.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellMITC9.cpp(414): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellMITC9.cpp(579): warning C4101: 'node': unreferenced local variable
+..\..\..\SRC\element\shell\ShellMITC9.cpp(995): warning C4101: 'node': unreferenced local variable
+  ShellNLDKGQ.cpp
+..\..\..\SRC\element\shell\ShellNLDKGQ.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellNLDKGQ.cpp(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellNLDKGQ.cpp(553): warning C4101: 'pp': unreferenced local variable
+..\..\..\SRC\element\shell\ShellNLDKGQ.cpp(553): warning C4101: 'qq': unreferenced local variable
+  TclElementCommands.cpp
+..\..\..\SRC\element\TclElementCommands.cpp(1310): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\TclElementCommands.cpp(1332): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\TclElementCommands.cpp(1309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\TclElementCommands.cpp(1334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\TclElementCommands.cpp(1336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\TclElementCommands.cpp(1345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  N4BiaxialTruss.cpp
+..\..\..\SRC\element\truss\N4BiaxialTruss.cpp(1272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\N4BiaxialTruss.cpp(1276): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\N4BiaxialTruss.cpp(1281): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\N4BiaxialTruss.cpp(1285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\N4BiaxialTruss.cpp(1323): warning C4101: 'strain': unreferenced local variable
+  QuadBeamEmbedContact.cpp
+..\..\..\SRC\element\UWelements\QuadBeamEmbedContact.cpp(717): warning C4101: 'normN': unreferenced local variable
+  WrapperElement.cpp
+..\..\..\SRC\element\WrapperElement.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  Compiling...
+  CorotTruss.cpp
+..\..\..\SRC\element\truss\CorotTruss.cpp(945): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\CorotTruss.cpp(949): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  CorotTruss2.cpp
+..\..\..\SRC\element\truss\CorotTruss2.cpp(912): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\CorotTruss2.cpp(916): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  CorotTrussSection.cpp
+..\..\..\Src\element\truss\CorotTrussSection.cpp(941): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\Src\element\truss\CorotTrussSection.cpp(945): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Truss.cpp
+..\..\..\SRC\element\truss\Truss.cpp(1025): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1026): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1031): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1032): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1037): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1038): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1044): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1045): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\truss\Truss.cpp(1158): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\Truss.cpp(1162): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Truss2.cpp
+..\..\..\SRC\element\truss\Truss2.cpp(1185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\Truss2.cpp(1189): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TrussSection.cpp
+..\..\..\SRC\element\truss\TrussSection.cpp(1091): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\truss\TrussSection.cpp(1095): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclFeapElementCommand.cpp
+  fElement.cpp
+..\..\..\SRC\element\feap\fElement.cpp(495): warning C4101: 'NH2': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(495): warning C4101: 'NH1': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(495): warning C4101: 'NH3': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(536): warning C4101: 'NH2': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(536): warning C4101: 'NH1': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(536): warning C4101: 'NH3': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(622): warning C4101: 'NH2': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(622): warning C4101: 'NH1': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(622): warning C4101: 'NH3': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(667): warning C4101: 'NH2': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(667): warning C4101: 'NH1': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(667): warning C4101: 'NH3': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(733): warning C4101: 'NH2': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(733): warning C4101: 'NH1': unreferenced local variable
+..\..\..\SRC\element\feap\fElement.cpp(733): warning C4101: 'NH3': unreferenced local variable
+  fElmt02.cpp
+  AC3D8HexWithSensitivity.cpp
+..\..\..\SRC\element\XMUelements\AC3D8HexWithSensitivity.cpp(510): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ASI3D8QuadWithSensitivity.cpp
+..\..\..\SRC\element\XMUelements\ASI3D8QuadWithSensitivity.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  AV3D4QuadWithSensitivity.cpp
+..\..\..\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp(48): warning C4101: 'numNodes': unreferenced local variable
+..\..\..\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp(48): warning C4101: 'eleID': unreferenced local variable
+..\..\..\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp(50): warning C4101: 'i': unreferenced local variable
+..\..\..\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp(49): warning C4101: 'nodes': unreferenced local variable
+..\..\..\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp(384): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  VS3D4QuadWithSensitivity.cpp
+..\..\..\SRC\element\XMUelements\VS3D4QuadWithSensitivity.cpp(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  CoupledZeroLength.cpp
+..\..\..\SRC\element\zeroLength\CoupledZeroLength.cpp(811): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\CoupledZeroLength.cpp(815): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclZeroLength.cpp
+  ZeroLength.cpp
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(838): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(897): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(901): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(910): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(919): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(927): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(938): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLength.cpp(942): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ZeroLengthContact2D.cpp
+  ZeroLengthContact3D.cpp
+  ZeroLengthContactNTS2D.cpp
+  ZeroLengthImpact3D.cpp
+  Generating Code...
+  Compiling...
+  ZeroLengthInterface2D.cpp
+  ZeroLengthND.cpp
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(736): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(740): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(749): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(755): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(766): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthND.cpp(772): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ZeroLengthRocking.cpp
+..\..\..\SRC\element\zeroLength\ZeroLengthRocking.cpp(671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthRocking.cpp(675): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthRocking.cpp(684): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ZeroLengthSection.cpp
+..\..\..\SRC\element\zeroLength\ZeroLengthSection.cpp(587): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthSection.cpp(596): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\zeroLength\ZeroLengthSection.cpp(605): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclBeamWithHingesBuilder.cpp
+  CorotCrdTransf2d.cpp
+  CorotCrdTransf3d.cpp
+  CrdTransf.cpp
+  LinearCrdTransf2d.cpp
+  LinearCrdTransf3d.cpp
+  PDeltaCrdTransf2d.cpp
+  PDeltaCrdTransf3d.cpp
+  TclGeomTransfCommand.cpp
+  ConstantPressureVolumeQuad.cpp
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(407): warning C4101: 'p': unreferenced local variable
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(407): warning C4101: 'q': unreferenced local variable
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(870): warning C4101: 'p': unreferenced local variable
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(870): warning C4101: 'q': unreferenced local variable
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(1356): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp(1358): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  EnhancedQuad.cpp
+..\..\..\SRC\element\fourNodeQuad\EnhancedQuad.cpp(1462): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\fourNodeQuad\EnhancedQuad.cpp(1464): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  FourNodeQuad.cpp
+..\..\..\SRC\element\fourNodeQuad\FourNodeQuad.cpp(971): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\fourNodeQuad\FourNodeQuad.cpp(973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  FourNodeQuad3d.cpp
+..\..\..\SRC\element\fourNodeQuad\FourNodeQuad3d.cpp(1127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\fourNodeQuad\FourNodeQuad3d.cpp(1129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  FourNodeQuadWithSensitivity.cpp
+  NineNodeMixedQuad.cpp
+..\..\..\SRC\element\fourNodeQuad\NineNodeMixedQuad.cpp(1370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\fourNodeQuad\NineNodeMixedQuad.cpp(1372): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclFourNodeQuadCommand.cpp
+  Generating Code...
+  Compiling...
+  ElasticBeam2d.cpp
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(770): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(775): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(776): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(782): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(783): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(784): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(791): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(796): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(797): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(803): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(804): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp(805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ElasticBeam3d.cpp
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam3d.cpp(983): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam3d.cpp(984): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam3d.cpp(989): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\elasticBeamColumn\ElasticBeam3d.cpp(990): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ElasticTimoshenkoBeam2d.cpp
+  ElasticTimoshenkoBeam3d.cpp
+  ModElasticBeam2d.cpp
+  TclElasticBeamCommand.cpp
+  BbarBrick.cpp
+..\..\..\SRC\element\brick\BbarBrick.cpp(1508): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrick.cpp(1516): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrick.cpp(1518): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrick.cpp(1520): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  BbarBrickWithSensitivity.cpp
+..\..\..\SRC\element\brick\BbarBrickWithSensitivity.cpp(1702): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrickWithSensitivity.cpp(1710): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrickWithSensitivity.cpp(1712): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\BbarBrickWithSensitivity.cpp(1714): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Brick.cpp
+..\..\..\SRC\element\brick\Brick.cpp(1515): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\Brick.cpp(1523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\Brick.cpp(1525): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\Brick.cpp(1527): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclBrickCommand.cpp
+  TclTwenty_Node_BrickCommand.cpp
+  Twenty_Node_Brick.cpp
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(369): warning C4101: 'k': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(369): warning C4101: 'k1': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(512): warning C4101: 'jk': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(512): warning C4101: 'ik': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(512): warning C4101: 'ib': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(512): warning C4101: 'jb': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(750): warning C4101: 'm': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(750): warning C4101: 'k': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(750): warning C4101: 'jk': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(750): warning C4101: 'ik': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(861): warning C4101: 'ik': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(861): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(933): warning C4101: 'jk': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(1110): warning C4101: 'ik': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(1238): warning C4101: 'jk': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(1238): warning C4101: 'ik': unreferenced local variable
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(1649): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\brick\Twenty_Node_Brick.cpp(1657): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  shp3d.cpp
+  DispBeamColumn2d.cpp
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1213): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1219): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1524): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1530): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1532): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp(1536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DispBeamColumn2dWithSensitivity.cpp
+  DispBeamColumn3d.cpp
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1309): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1311): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1315): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1465): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1471): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1473): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp(1477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DispBeamColumn3dWithSensitivity.cpp
+  BeamColumnJoint2d.cpp
+  BeamColumnJoint3d.cpp
+  ElasticTubularJoint.cpp
+  Generating Code...
+  Compiling...
+  Joint2D.cpp
+  Joint3D.cpp
+  MP_Joint2D.cpp
+  MP_Joint3D.cpp
+  TclBeamColumnJointCommand.cpp
+  TclJoint2dCommand.cpp
+  TclJoint3dCommand.cpp
+  BilinearCyclic.cpp
+  CyclicModel.cpp
+  Elastic2DGNL.cpp
+  Inelastic2DYS01.cpp
+  Inelastic2DYS02.cpp
+  Inelastic2DYS03.cpp
+  InelasticYS2DGNL.cpp
+  LinearCyclic.cpp
+  QuadraticCyclic.cpp
+  TclCyclicModelCommands.cpp
+  TclElement2dGNL.cpp
+  TclElement2dYS.cpp
+  UpdatedLagrangianBeam2D.cpp
+..\..\..\SRC\element\updatedLagrangianBeamColumn\UpdatedLagrangianBeam2D.cpp(815): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\updatedLagrangianBeamColumn\UpdatedLagrangianBeam2D.cpp(817): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\updatedLagrangianBeamColumn\UpdatedLagrangianBeam2D.cpp(819): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  ElasticForceBeamColumn2d.cpp
+  ElasticForceBeamColumn3d.cpp
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1168): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1170): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1414): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1416): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp(1420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumn2d.cpp
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2422): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2428): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2430): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2434): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2849): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2855): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2857): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp(2861): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumn3d.cpp
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn3d.cpp(2594): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn3d.cpp(2600): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn3d.cpp(2602): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumn3d.cpp(2606): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ForceBeamColumnCBDI2d.cpp
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(2827): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(2833): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(2835): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(2839): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(3315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(3321): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(3323): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp(3327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TclForceBeamColumnCommand.cpp
+  BeamIntegration.cpp
+  CompositeSimpsonBeamIntegration.cpp
+  DistHingeIntegration.cpp
+  FixedLocationBeamIntegration.cpp
+  HingeEndpointBeamIntegration.cpp
+  HingeMidpointBeamIntegration.cpp
+  HingeRadauBeamIntegration.cpp
+  HingeRadauTwoBeamIntegration.cpp
+  LegendreBeamIntegration.cpp
+  LobattoBeamIntegration.cpp
+  LowOrderBeamIntegration.cpp
+  MidDistanceBeamIntegration.cpp
+  NewtonCotesBeamIntegration.cpp
+  RadauBeamIntegration.cpp
+  Generating Code...
+f:\openseesr6236\src\element\forcebeamcolumn\elasticforcebeamcolumn2d.cpp(1282): warning C4715: 'ElasticForceBeamColumn2d::setParameter': not all control paths return a value
+  Compiling...
+  RegularizedHingeIntegration.cpp
+  TrapezoidalBeamIntegration.cpp
+  UserDefinedBeamIntegration.cpp
+  UserDefinedHingeIntegration.cpp
+  MatrixUtil.cpp
+  BBarBrickUP.cpp
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1043): warning C4101: 'e': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1043): warning C4101: 'n': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1559): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1566): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1570): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarBrickUP.cpp(1572): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  BBarFourNodeQuadUP.cpp
+..\..\..\SRC\element\UP-ucsd\BBarFourNodeQuadUP.cpp(716): warning C4101: 'k': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\BBarFourNodeQuadUP.cpp(1051): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarFourNodeQuadUP.cpp(1053): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BBarFourNodeQuadUP.cpp(1055): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  BrickUP.cpp
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1093): warning C4101: 'e': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1093): warning C4101: 'n': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1543): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1550): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1552): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1554): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\BrickUP.cpp(1556): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Nine_Four_Node_QuadUP.cpp
+..\..\..\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.cpp(1671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.cpp(1679): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.cpp(1681): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.cpp(1684): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclFourNodeQuadUPCommand.cpp
+..\..\..\SRC\element\UP-ucsd\TclFourNodeQuadUPCommand.cpp(72): warning C4101: 'type': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\TclFourNodeQuadUPCommand.cpp(650): warning C4101: 'type': unreferenced local variable
+  Twenty_Eight_Node_BrickUP.cpp
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(767): warning C4101: 'k': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(767): warning C4101: 'k1': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(1490): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2395): warning C4474: 'sprintf' : too many arguments passed for format string
+  ..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2395): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2397): warning C4474: 'sprintf' : too many arguments passed for format string
+  ..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2397): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2397): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2399): warning C4474: 'sprintf' : too many arguments passed for format string
+  ..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2399): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2399): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2402): warning C4474: 'sprintf' : too many arguments passed for format string
+  ..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2402): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+..\..\..\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp(2402): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  shp3dv.cpp
+  DispBeamColumn2dInt.cpp
+..\..\..\SRC\element\dispBeamColumnInt\DispBeamColumn2dInt.cpp(2001): warning C4101: 'V': unreferenced local variable
+  DispBeamColumn2dThermal.cpp
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1391): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1397): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1580): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1586): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1588): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp(1592): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FiberSection2dInt.cpp
+..\..\..\SRC\element\dispBeamColumnInt\FiberSection2dInt.cpp(1401): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\dispBeamColumnInt\FiberSection2dInt.cpp(1899): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\dispBeamColumnInt\FiberSection2dInt.cpp(2431): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\dispBeamColumnInt\FiberSection2dInt.cpp(2835): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LinearCrdTransf2dInt.cpp
+  TclDispBeamColumnIntCommand.cpp
+  GenericClient.cpp
+..\..\..\SRC\element\generic\GenericClient.cpp(550): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+..\..\..\SRC\element\generic\GenericClient.cpp(567): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\generic\GenericClient.cpp(632): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\generic\GenericClient.cpp(743): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(754): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(765): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(778): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(796): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(808): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericClient.cpp(820): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  GenericCopy.cpp
+..\..\..\SRC\element\generic\GenericCopy.cpp(497): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericCopy.cpp(506): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\generic\GenericCopy.cpp(515): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclGenericClientCommand.cpp
+..\..\..\SRC\element\generic\TclGenericClientCommand.cpp(158): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\element\generic\TclGenericClientCommand.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  Compiling...
+  TclGenericCopyCommand.cpp
+  TclTwoNodeLinkCommand.cpp
+  TwoNodeLink.cpp
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(907): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(916): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(925): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(935): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(946): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(957): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\twoNodeLink\TwoNodeLink.cpp(961): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Actuator.cpp
+..\..\..\SRC\element\adapter\Actuator.cpp(694): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Actuator.cpp(705): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ActuatorCorot.cpp
+..\..\..\SRC\element\adapter\ActuatorCorot.cpp(780): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\ActuatorCorot.cpp(791): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Adapter.cpp
+..\..\..\SRC\element\adapter\Adapter.cpp(660): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Adapter.cpp(671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Adapter.cpp(682): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Adapter.cpp(695): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Adapter.cpp(713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\adapter\Adapter.cpp(725): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclActuatorCommand.cpp
+  TclActuatorCorotCommand.cpp
+  TclAdapterCommand.cpp
+  ElastomericBearingBoucWen2d.cpp
+  ElastomericBearingBoucWen3d.cpp
+  ElastomericBearingPlasticity2d.cpp
+  ElastomericBearingPlasticity3d.cpp
+  ElastomericBearingUFRP2d.cpp
+  ElastomericX.cpp
+..\..\..\SRC\element\elastomericBearing\ElastomericX.cpp(241): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HDR.cpp
+..\..\..\SRC\element\elastomericBearing\HDR.cpp(193): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LeadRubberX.cpp
+..\..\..\SRC\element\elastomericBearing\LeadRubberX.cpp(273): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TclElastomericBearingBoucWenCommand.cpp
+  TclElastomericBearingPlasticityCommand.cpp
+  TclElastomericBearingUFRPCommand.cpp
+  Generating Code...
+  Compiling...
+  FlatSliderSimple2d.cpp
+  FlatSliderSimple3d.cpp
+  MultiFP2d.cpp
+..\..\..\SRC\element\frictionBearing\MultiFP2d.cpp(521): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\MultiFP2d.cpp(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  RJWatsonEQS2d.cpp
+  RJWatsonEQS3d.cpp
+  SingleFPSimple2d.cpp
+  SingleFPSimple3d.cpp
+  TFP_Bearing.cpp
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(70): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(703): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(903): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(912): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(919): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(926): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing.cpp(941): warning C4101: 'strain': unreferenced local variable
+  TFP_Bearing2d.cpp
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(597): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(794): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(803): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(810): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(817): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TFP_Bearing2d.cpp(833): warning C4101: 'strain': unreferenced local variable
+  TPB1D.cpp
+..\..\..\SRC\element\frictionBearing\TPB1D.cpp(633): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TPB1D.cpp(637): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\frictionBearing\TPB1D.cpp(625): warning C4101: 'outputData': unreferenced local variable
+  TclFlatSliderCommand.cpp
+  TclRJWatsonEQSCommand.cpp
+  TclSingleFPCommand.cpp
+  TripleFrictionPendulum.cpp
+  Coulomb.cpp
+  FrictionModel.cpp
+  FrictionResponse.cpp
+  TclModelBuilderFrictionModelCommand.cpp
+  VelDepMultiLinear.cpp
+  VelDependent.cpp
+  Generating Code...
+  Compiling...
+  VelNormalFrcDep.cpp
+  VelPressureDep.cpp
+  PY_Macro2D.cpp
+..\..\..\SRC\element\pyMacro\PY_Macro2D.cpp(313): warning C4101: 'Tznew': unreferenced local variable
+..\..\..\SRC\element\pyMacro\PY_Macro2D.cpp(313): warning C4101: 'Tzold': unreferenced local variable
+..\..\..\SRC\element\pyMacro\PY_Macro2D.cpp(313): warning C4101: 'f_': unreferenced local variable
+..\..\..\SRC\element\pyMacro\PY_Macro2D.cpp(313): warning C4101: 'f': unreferenced local variable
+..\..\..\SRC\element\pyMacro\PY_Macro2D.cpp(457): warning C4101: 'strain': unreferenced local variable
+  SurfaceLoad.cpp
+  BeamContact2D.cpp
+  BeamContact2Dp.cpp
+  BeamContact3D.cpp
+..\..\..\SRC\element\UWelements\BeamContact3D.cpp(1895): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3D.cpp(1896): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3D.cpp(1897): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3D.cpp(1898): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3D.cpp(1899): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  BeamContact3Dp.cpp
+..\..\..\SRC\element\UWelements\BeamContact3Dp.cpp(1530): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3Dp.cpp(1531): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\element\UWelements\BeamContact3Dp.cpp(1532): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  BeamEndContact3D.cpp
+..\..\..\SRC\element\UWelements\BeamEndContact3D.cpp(345): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\UWelements\BeamEndContact3D.cpp(345): warning C4101: 'i': unreferenced local variable
+  BeamEndContact3Dp.cpp
+..\..\..\SRC\element\UWelements\BeamEndContact3Dp.cpp(339): warning C4101: 'j': unreferenced local variable
+..\..\..\SRC\element\UWelements\BeamEndContact3Dp.cpp(339): warning C4101: 'i': unreferenced local variable
+..\..\..\SRC\element\UWelements\BeamEndContact3Dp.cpp(512): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Brick8FiberOverlay.cpp
+..\..\..\SRC\element\UWelements\Brick8FiberOverlay.cpp(531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UWelements\Brick8FiberOverlay.cpp(539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UWelements\Brick8FiberOverlay.cpp(554): warning C4101: 'strain': unreferenced local variable
+  PileToe3D.cpp
+  Quad4FiberOverlay.cpp
+..\..\..\SRC\element\UWelements\Quad4FiberOverlay.cpp(519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UWelements\Quad4FiberOverlay.cpp(525): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  SSPbrick.cpp
+  SSPbrickUP.cpp
+  SSPquad.cpp
+  SSPquadUP.cpp
+  SimpleContact2D.cpp
+  SimpleContact3D.cpp
+  Tri31.cpp
+..\..\..\SRC\element\triangle\Tri31.cpp(983): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\triangle\Tri31.cpp(985): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  R3vectors.cpp
+  ShellMITC4.cpp
+..\..\..\SRC\element\shell\ShellMITC4.cpp(375): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\shell\ShellMITC4.cpp(384): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  PFEMElement2D.cpp
+  PFEMElement2DBubble.cpp
+..\..\..\SRC\element\PFEMElement\PFEMElement2DBubble.cpp(520): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMElement2DBubble.cpp(521): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PFEMElement2DCompressible.cpp
+..\..\..\SRC\element\PFEMElement\PFEMElement2DCompressible.cpp(426): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PFEMElement3D.cpp
+  PFEMMesher2D.cpp
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(162): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(791): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(819): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(993): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(1570): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(1651): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2322): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2322): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  ..\..\..\SRC\element\PFEMElement\PFEMMesher2D.cpp(1573): note: see reference to function template instantiation '_OutIt std::copy<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=int *,
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>
+          ]
+  PFEMMesher3D.cpp
+F:\OpenSeesR6236\other\tetgen1.4.3\tetgen.h(3357): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+F:\OpenSeesR6236\other\tetgen1.4.3\tetgen.h(3357): warning C4302: 'type cast': truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+F:\OpenSeesR6236\other\tetgen1.4.3\tetgen.h(3357): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(117): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(126): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(138): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(153): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(198): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(220): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(267): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(275): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(279): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\element\PFEMElement\PFEMMesher3D.cpp(589): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TclModelBuilder_addPFEMElement.cpp
+  KikuchiBearing.cpp
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(409): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(421): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(439): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(447): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(459): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(465): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(471): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(477): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(483): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(489): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\KikuchiBearing.cpp(495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MultipleNormalSpring.cpp
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(281): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(287): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(293): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\HUelements\MultipleNormalSpring.cpp(312): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MultipleShearSpring.cpp
+  YamamotoBiaxialHDR.cpp
+  NewElement.cpp
+  Generating Code...
+  FourNodeQuadUP.cpp
+..\..\..\SRC\element\UP-ucsd\FourNodeQuadUP.cpp(723): warning C4101: 'k': unreferenced local variable
+..\..\..\SRC\element\UP-ucsd\FourNodeQuadUP.cpp(1059): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\FourNodeQuadUP.cpp(1061): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\element\UP-ucsd\FourNodeQuadUP.cpp(1063): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  DBESI0.C
+  DBESI1.C
+  Generating Code...
+  element.vcxproj -> F:\OpenSeesR6236\Win64\proj\element\.\..\..\lib\debug\element.lib
+BSCMAKE : warning BK4503: minor error in .SBR file '.\..\..\obj\element\debug\PFEMMesher3D.sbr' ignored

@@ -1,0 +1,100 @@
+﻿  DomainSolver.cpp
+  EigenSOE.cpp
+  EigenSolver.cpp
+  LinearSOE.cpp
+  LinearSOESolver.cpp
+  Solver.cpp
+  SystemOfEqn.cpp
+  DistributedProfileSPDLinSOE.cpp
+  ProfileSPDLinDirectSolver.cpp
+  ProfileSPDLinSOE.cpp
+  ProfileSPDLinSolver.cpp
+  ProfileSPDLinSubstrSolver.cpp
+  SProfileSPDLinSOE.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(334): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(356): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(385): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(391): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(397): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SProfileSPDLinSolver.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(361): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SymSparseLinSOE.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\sparseSYM\SymSparseLinSOE.cpp(514): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  SymSparseLinSolver.cpp
+  BandGenLinLapackSolver.cpp
+  BandGenLinSOE.cpp
+  BandGenLinSolver.cpp
+  DistributedBandGenLinSOE.cpp
+  Generating Code...
+  Compiling...
+  BandSPDLinLapackSolver.cpp
+  BandSPDLinSOE.cpp
+  BandSPDLinSolver.cpp
+  DistributedBandSPDLinSOE.cpp
+  FullGenEigenSOE.cpp
+  FullGenEigenSolver.cpp
+  FullGenLinLapackSolver.cpp
+  FullGenLinSOE.cpp
+  FullGenLinSolver.cpp
+  UmfpackGenLinSOE.cpp
+  UmfpackGenLinSolver.cpp
+  CuSPSolver.cpp
+  PFEMCompressibleLinSOE.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMCompressibleLinSOE.cpp(136): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMCompressibleLinSOE.cpp(175): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+  PFEMCompressibleSolver.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMCompressibleSolver.cpp(58): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMCompressibleSolver.cpp(75): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+  PFEMLinSOE.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMLinSOE.cpp(165): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMLinSOE.cpp(217): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMLinSOE.cpp(275): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+  PFEMSolver.cpp
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMSolver.cpp(67): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMSolver.cpp(68): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMSolver.cpp(71): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMSolver.cpp(184): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMSolver.cpp(185): warning C4244: 'initializing': conversion from 'ptrdiff_t' to 'int', possible loss of data
+  SparseGenColLinSOE.cpp
+  SparseGenColLinSolver.cpp
+  SparseGenRowLinSOE.cpp
+  SparseGenRowLinSolver.cpp
+  Generating Code...
+  Compiling...
+  SuperLU.cpp
+  ArpackSOE.cpp
+  ArpackSolver.cpp
+..\..\..\SRC\system_of_eqn\eigenSOE\ArpackSolver.cpp(192): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\system_of_eqn\eigenSOE\ArpackSolver.cpp(194): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  SymBandEigenSOE.cpp
+  SymBandEigenSolver.cpp
+  DiagonalDirectSolver.cpp
+  DiagonalSOE.cpp
+  DiagonalSolver.cpp
+  DistributedDiagonalSOE.cpp
+  DistributedDiagonalSolver.cpp
+  Generating Code...
+  grcm.c
+  nest.c
+  newordr.c
+  nmat.c
+..\..\..\SRC\system_of_eqn\linearSOE\sparseSYM\nmat.c(126): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseSYM\nmat.c(205): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+..\..\..\SRC\system_of_eqn\linearSOE\sparseSYM\nmat.c(357): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  nnsim.c
+  symbolic.c
+  tim.c
+  utility.c
+  Generating Code...
+  system.vcxproj -> F:\OpenSeesR6236\Win64\proj\system\.\..\..\lib\debug\system.lib

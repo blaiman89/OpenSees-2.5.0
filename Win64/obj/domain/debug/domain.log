@@ -1,0 +1,202 @@
+﻿  Beam2dPartialUniformLoad.cpp
+..\..\..\SRC\domain\load\Beam2dPartialUniformLoad.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\load\Beam2dPartialUniformLoad.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NodalLoad.cpp
+  Node.cpp
+..\..\..\SRC\domain\node\Node.cpp(1757): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\node\Node.cpp(1756): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Domain.cpp
+  SingleDomAllSP_Iter.cpp
+  SingleDomEleIter.cpp
+  SingleDomMP_Iter.cpp
+  SingleDomNodIter.cpp
+  SingleDomPC_Iter.cpp
+  SingleDomParamIter.cpp
+  SingleDomSP_Iter.cpp
+  SimpsonTimeSeriesIntegrator.cpp
+  UniformRotationalExcitation.cpp
+..\..\..\SRC\domain\pattern\UniformRotationalExcitation.cpp(263): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformRotationalExcitation.cpp(264): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformRotationalExcitation.cpp(267): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformRotationalExcitation.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Subdomain.cpp
+  SubdomainNodIter.cpp
+  DomainComponent.cpp
+  ElementParameter.cpp
+..\..\..\SRC\domain\component\ElementParameter.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\component\ElementParameter.cpp(52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\component\ElementParameter.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\component\ElementParameter.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\component\ElementParameter.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ElementStateParameter.cpp
+..\..\..\SRC\domain\component\ElementStateParameter.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\component\ElementStateParameter.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\component\ElementStateParameter.cpp(171): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  InitialStateParameter.cpp
+  MatParameter.cpp
+..\..\..\SRC\domain\component\MatParameter.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\component\MatParameter.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\component\MatParameter.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\component\MatParameter.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  MaterialStageParameter.cpp
+..\..\..\SRC\domain\component\MaterialStageParameter.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\component\MaterialStageParameter.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  NodeResponseParameter.cpp
+  Parameter.cpp
+  RVParameter.cpp
+  TclParameterCommands.cpp
+..\..\..\SRC\domain\component\TclParameterCommands.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\component\TclParameterCommands.cpp(100): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\component\TclParameterCommands.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\component\TclParameterCommands.cpp(253): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclUpdateMaterialCommand.cpp
+  Beam2dThermalAction.cpp
+  ElementalLoadIter.cpp
+  Load.cpp
+  NodalLoadIter.cpp
+  SelfWeight.cpp
+..\..\..\SRC\domain\load\SelfWeight.cpp(96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SurfaceLoader.cpp
+  Beam2dPointLoad.cpp
+..\..\..\Src\domain\load\Beam2dPointLoad.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Beam2dTempLoad.cpp
+  Beam2dUniformLoad.cpp
+..\..\..\Src\domain\load\Beam2dUniformLoad.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\Src\domain\load\Beam2dUniformLoad.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Beam3dPointLoad.cpp
+..\..\..\SRC\domain\load\Beam3dPointLoad.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Beam3dUniformLoad.cpp
+..\..\..\SRC\domain\load\Beam3dUniformLoad.cpp(107): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BrickSelfWeight.cpp
+  ImposedMotionSP.cpp
+  ImposedMotionSP1.cpp
+  Generating Code...
+  Compiling...
+  MP_Constraint.cpp
+  Pressure_Constraint.cpp
+  RigidBeam.cpp
+  RigidDiaphragm.cpp
+  RigidRod.cpp
+  SP_Constraint.cpp
+  EarthquakePattern.cpp
+  FireLoadPattern.cpp
+  LoadPattern.cpp
+  LoadPatternIter.cpp
+  MultiSupportPattern.cpp
+  PeerNGAMotion.cpp
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(183): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(186): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(218): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(311): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(436): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(437): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerNGAMotion.cpp(438): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TclPatternCommand.cpp
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(666): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(824): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(832): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(840): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(848): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(856): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\domain\pattern\TclPatternCommand.cpp(864): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  UniformExcitation.cpp
+..\..\..\SRC\domain\pattern\UniformExcitation.cpp(291): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformExcitation.cpp(292): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformExcitation.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\UniformExcitation.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DRMBoundaryLayerDecorator.cpp
+  DRMInputHandler.cpp
+  DRMLoadPattern.cpp
+  DRMLoadPatternWrapper.cpp
+..\..\..\SRC\domain\pattern\drm\DRMLoadPatternWrapper.cpp(145): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\drm\DRMLoadPatternWrapper.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\drm\DRMLoadPatternWrapper.cpp(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  GeometricBrickDecorator.cpp
+  Mesh3DSubdomain.cpp
+  Generating Code...
+  Compiling...
+  PlaneDRMInputHandler.cpp
+..\..\..\SRC\domain\pattern\drm\PlaneDRMInputHandler.cpp(407): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\drm\PlaneDRMInputHandler.cpp(583): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\drm\PlaneDRMInputHandler.cpp(584): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\drm\PlaneDRMInputHandler.cpp(589): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GroundMotion.cpp
+  GroundMotionRecord.cpp
+  InterpolatedGroundMotion.cpp
+  TclGroundMotionCommand.cpp
+  ConstantSeries.cpp
+  DiscretizedRandomProcessSeries.cpp
+  LinearSeries.cpp
+  PathSeries.cpp
+..\..\..\SRC\domain\pattern\PathSeries.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathSeries.cpp(304): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathSeries.cpp(305): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathSeries.cpp(306): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PathTimeSeries.cpp
+..\..\..\SRC\domain\pattern\PathTimeSeries.cpp(469): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathTimeSeries.cpp(470): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathTimeSeries.cpp(474): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PathTimeSeries.cpp(475): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PeerMotion.cpp
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(156): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(159): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(206): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(209): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(390): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(391): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\domain\pattern\PeerMotion.cpp(392): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PulseSeries.cpp
+  RectangularSeries.cpp
+  SimulatedRandomProcessSeries.cpp
+  TclSeriesCommand.cpp
+..\..\..\SRC\domain\pattern\TclSeriesCommand.cpp(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\TclSeriesCommand.cpp(393): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\TclSeriesCommand.cpp(421): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\domain\pattern\TclSeriesCommand.cpp(428): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  TclSeriesIntegratorCommand.cpp
+  TimeSeries.cpp
+  TimeSeriesIntegrator.cpp
+  TrapezoidalTimeSeriesIntegrator.cpp
+  TriangleSeries.cpp
+  Generating Code...
+  Compiling...
+  TrigSeries.cpp
+  MeshRegion.cpp
+  TclRegionCommands.cpp
+  Generating Code...
+  domain.vcxproj -> F:\OpenSeesR6236\Win64\proj\domain\.\..\..\lib\debug\domain.lib

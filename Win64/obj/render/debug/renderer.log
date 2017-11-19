@@ -1,0 +1,124 @@
+﻿  Clipping.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Device.cpp
+  DofColorMap.cpp
+..\..\..\SRC\renderer\DofColorMap.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\renderer\DofColorMap.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\..\SRC\renderer\DofColorMap.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\..\..\SRC\renderer\DofColorMap.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  OpenGlDevice.cpp
+..\..\..\SRC\renderer\OpenGlDevice.cpp(63): warning C4244: '=': conversion from 'LRESULT' to 'LONG', possible loss of data
+..\..\..\SRC\renderer\OpenGlDevice.cpp(395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(636): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+..\..\..\SRC\renderer\OpenGlDevice.cpp(713): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(714): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(718): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(889): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+..\..\..\SRC\renderer\OpenGlDevice.cpp(896): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(897): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+..\..\..\SRC\renderer\OpenGlDevice.cpp(899): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  OpenGlRenderer.cpp
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(129): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(296): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(312): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(378): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(388): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(389): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(435): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(442): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(458): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(464): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(467): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(489): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(497): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(507): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(529): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(542): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(544): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(554): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(586): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(593): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(626): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(627): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(628): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(635): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(657): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(661): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(662): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\OpenGlRenderer.cpp(663): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PlainMap.cpp
+..\..\..\SRC\renderer\PlainMap.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\PlainMap.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\renderer\PlainMap.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Projection.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\Projection.cpp(68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\Projection.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\Projection.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Renderer.cpp
+..\..\..\SRC\renderer\Renderer.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Scan.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\Scan.cpp(247): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\renderer\Scan.cpp(249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\renderer\Scan.cpp(438): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  View.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Viewport.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\renderer\Viewport.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\..\..\SRC\renderer\Viewport.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WindowDevice.cpp
+..\..\..\SRC\renderer\WindowDevice.cpp(67): warning C4244: '=': conversion from 'LRESULT' to 'LONG', possible loss of data
+..\..\..\SRC\renderer\WindowDevice.cpp(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  WindowRenderer.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  db.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  gMatrix.cpp
+f:\openseesr6236\src\renderer\gMatrix.H(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+OpenGlDevice.obj : warning LNK4006: "long __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YAJPEAUHWND__@@I_K_J@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglSetPixelFormat(struct HDC__ *,unsigned char,unsigned long)" (?oglSetPixelFormat@@YAHPEAUHDC__@@EK@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "struct HWND__ * __cdecl oglCreateWindow(char *,int,int,int,int,struct HGLRC__ * *,struct HDC__ * *)" (?oglCreateWindow@@YAPEAUHWND__@@PEADHHHHPEAPEAUHGLRC__@@PEAPEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglDestroyWindow(char *,struct HWND__ *,struct HGLRC__ *,struct HDC__ *)" (?oglDestroyWindow@@YAHPEADPEAUHWND__@@PEAUHGLRC__@@PEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglCreateBitmap(int,int,struct HGLRC__ * *,struct HDC__ * *,struct HBITMAP__ * *,struct tagBITMAPINFO *,unsigned char * *)" (?oglCreateBitmap@@YAHHHPEAPEAUHGLRC__@@PEAPEAUHDC__@@PEAPEAUHBITMAP__@@PEAUtagBITMAPINFO@@PEAPEAE@Z) already defined in WindowDevice.obj; second definition ignored
+OpenGlDevice.obj : warning LNK4006: "int __cdecl oglDestroyBitmap(struct HBITMAP__ * *,struct HGLRC__ *,struct HDC__ *)" (?oglDestroyBitmap@@YAHPEAPEAUHBITMAP__@@PEAUHGLRC__@@PEAUHDC__@@@Z) already defined in WindowDevice.obj; second definition ignored
+  renderer.vcxproj -> F:\OpenSeesR6236\Win64\proj\renderer\.\..\..\lib\debug\renderer.lib

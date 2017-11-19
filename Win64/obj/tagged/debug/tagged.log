@@ -1,0 +1,10 @@
+﻿  ArrayOfTaggedObjects.cpp
+  ArrayOfTaggedObjectsIter.cpp
+  MapOfTaggedObjects.cpp
+..\..\..\SRC\tagged\storage\MapOfTaggedObjects.cpp(64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\tagged\storage\MapOfTaggedObjects.cpp(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\tagged\storage\MapOfTaggedObjects.cpp(133): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MapOfTaggedObjectsIter.cpp
+  TaggedObject.cpp
+  Generating Code...
+  tagged.vcxproj -> F:\OpenSeesR6236\Win64\proj\tagged\.\..\..\lib\debug\tagged.lib

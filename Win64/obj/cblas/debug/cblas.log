@@ -1,0 +1,41 @@
+﻿  dasum.c
+  daxpy.c
+  dcabs1.c
+  dcopy.c
+  ddot.c
+  dgemm.c
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'b_dim1': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'c_dim1': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'a_dim1': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'c_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemm.c(17): warning C4101: 'b_offset': unreferenced local variable
+  dgemv.c
+..\..\..\OTHER\CBLAS\dgemv.c(16): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dgemv.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dger.c
+..\..\..\OTHER\CBLAS\dger.c(16): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dger.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dmyblas2.c
+  dnrm2.c
+  drot.c
+  dscal.c
+  dsymv.c
+..\..\..\OTHER\CBLAS\dsymv.c(16): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dsymv.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dsyr2.c
+..\..\..\OTHER\CBLAS\dsyr2.c(16): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dsyr2.c(16): warning C4101: 'a_dim1': unreferenced local variable
+  dtrsm.c
+..\..\..\OTHER\CBLAS\dtrsm.c(16): warning C4101: 'b_dim1': unreferenced local variable
+..\..\..\OTHER\CBLAS\dtrsm.c(16): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dtrsm.c(16): warning C4101: 'a_dim1': unreferenced local variable
+..\..\..\OTHER\CBLAS\dtrsm.c(16): warning C4101: 'b_offset': unreferenced local variable
+  dtrsv.c
+..\..\..\OTHER\CBLAS\dtrsv.c(15): warning C4101: 'a_offset': unreferenced local variable
+..\..\..\OTHER\CBLAS\dtrsv.c(15): warning C4101: 'a_dim1': unreferenced local variable
+  dzasum.c
+  dznrm2.c
+  idamax.c
+  Generating Code...
+  cblas.vcxproj -> F:\OpenSeesR6236\Win64\proj\cblas\.\..\..\lib\debug\cblas.lib

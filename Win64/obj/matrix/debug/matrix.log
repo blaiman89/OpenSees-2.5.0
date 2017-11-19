@@ -1,0 +1,6 @@
+﻿  ID.cpp
+..\..\..\SRC\matrix\ID.cpp(280): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Matrix.cpp
+  Vector.cpp
+  Generating Code...
+  matrix.vcxproj -> F:\OpenSeesR6236\Win64\proj\matrix\.\..\..\lib\debug\matrix.lib

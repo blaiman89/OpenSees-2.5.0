@@ -1,0 +1,33 @@
+﻿  AMDNumberer.cpp
+..\..\..\SRC\graph\numberer\AMDNumberer.cpp(79): warning C4101: 'Info': unreferenced local variable
+..\..\..\SRC\graph\numberer\AMDNumberer.cpp(78): warning C4101: 'Control': unreferenced local variable
+  ArrayGraph.cpp
+  ArrayVertexIter.cpp
+  DOF_Graph.cpp
+  DOF_GroupGraph.cpp
+  Graph.cpp
+  GraphNumberer.cpp
+  MyRCM.cpp
+  RCM.cpp
+  SimpleNumberer.cpp
+  Vertex.cpp
+  VertexIter.cpp
+  Generating Code...
+  amd_1.c
+  amd_2.c
+..\..\..\OTHER\AMD\amd_2.c(603): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  amd_aat.c
+..\..\..\OTHER\AMD\amd_aat.c(180): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+  amd_control.c
+  amd_defaults.c
+  amd_dump.c
+  amd_global.c
+  amd_info.c
+  amd_order.c
+..\..\..\OTHER\AMD\amd_order.c(186): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  amd_post_tree.c
+  amd_postorder.c
+  amd_preprocess.c
+  amd_valid.c
+  Generating Code...
+  graph.vcxproj -> F:\OpenSeesR6236\Win64\proj\graph\.\..\..\lib\debug\graph.lib

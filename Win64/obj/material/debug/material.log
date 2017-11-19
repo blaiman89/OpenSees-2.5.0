@@ -1,0 +1,645 @@
+﻿  AcousticMedium.cpp
+  FSAM.cpp
+  LinearCap.cpp
+..\..\..\SRC\material\nD\LinearCap.cpp(101): warning C4305: 'argument': truncation from '__int64' to 'int'
+..\..\..\SRC\material\nD\LinearCap.cpp(101): warning C4309: 'argument': truncation of constant value
+..\..\..\SRC\material\nD\LinearCap.cpp(135): warning C4305: 'argument': truncation from '__int64' to 'int'
+..\..\..\SRC\material\nD\LinearCap.cpp(135): warning C4309: 'argument': truncation of constant value
+  MaterialCMM.cpp
+  StressDensityModel.cpp
+  StressDensityModel2D.cpp
+  StressDensityModel3D.cpp
+  ManzariDafalias3DRO.cpp
+  ManzariDafaliasPlaneStrainRO.cpp
+  ManzariDafaliasRO.cpp
+  TaperedFiberSectionSmoothing3d.cpp
+..\..\..\SRC\material\section\TaperedFiberSectionSmoothing3d.cpp(703): warning C4114: same type qualifier used more than once
+  AxialSp.cpp
+  AxialSpHD.cpp
+  BilinearOilDamper.cpp
+  BWBN.cpp
+  BarSlipMaterial.cpp
+  Bond_SP01.cpp
+  BoucWenMaterial.cpp
+  CFSSSWP.cpp
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(135): warning C4101: 'DeltaV': unreferenced local variable
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(135): warning C4101: 'N': unreferenced local variable
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(363): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(395): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(397): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSSSWP.cpp(398): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CFSWSWP.cpp
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(148): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(138): warning C4101: 'stress': unreferenced local variable
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(447): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(448): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(449): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\SRC\material\uniaxial\CFSWSWP.cpp(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+f:\openseesr6236\src\material\section\taperedfibersectionsmoothing3d.cpp(213): warning C4700: uninitialized local variable 'hRatio' used
+f:\openseesr6236\src\material\nd\linearcap.cpp(1097): warning C4172: returning address of local variable or temporary
+  Compiling...
+  CableMaterial.cpp
+..\..\..\SRC\material\uniaxial\CableMaterial.cpp(286): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Cast.cpp
+..\..\..\SRC\material\uniaxial\Cast.cpp(617): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Concrete01.cpp
+  Concrete01WithSITC.cpp
+  Concrete02.cpp
+..\..\..\SRC\material\uniaxial\Concrete02.cpp(342): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Concrete02Thermal.cpp
+..\..\..\SRC\material\uniaxial\Concrete02Thermal.cpp(662): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Concrete04.cpp
+  Concrete06.cpp
+  Concrete07.cpp
+..\..\..\SRC\material\uniaxial\Concrete07.cpp(1651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Concrete07.cpp(1668): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Concrete07.cpp(1836): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Concrete07.cpp(1841): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConcreteCM.cpp
+..\..\..\SRC\material\uniaxial\ConcreteCM.cpp(4384): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ConcreteCM.cpp(4385): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConcreteD.cpp
+..\..\..\SRC\material\uniaxial\ConcreteD.cpp(408): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ConcreteD.cpp(409): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConcreteSakaiKawashima.cpp
+  ConcretewBeta.cpp
+..\..\..\SRC\material\uniaxial\ConcretewBeta.cpp(866): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\ConcretewBeta.cpp(867): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\ConcretewBeta.cpp(874): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\ConcretewBeta.cpp(875): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  ConfinedConcrete01.cpp
+  CubicSpline.cpp
+  Dodd_Restrepo.cpp
+  DrainMaterial.cpp
+  ECC01.cpp
+..\..\..\SRC\material\uniaxial\ECC01.cpp(793): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ENTMaterial.cpp
+..\..\..\SRC\material\uniaxial\ENTMaterial.cpp(218): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  EPPGapMaterial.cpp
+  Generating Code...
+f:\openseesr6236\src\material\uniaxial\dodd_restrepo.cpp(426): warning C4700: uninitialized local variable 'ESH' used
+f:\openseesr6236\src\material\uniaxial\dodd_restrepo.cpp(468): warning C4700: uninitialized local variable 'ESHI' used
+  Compiling...
+  Elastic2Material.cpp
+..\..\..\SRC\material\uniaxial\Elastic2Material.cpp(164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Elastic2Material.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ElasticBilin.cpp
+..\..\..\SRC\material\uniaxial\ElasticBilin.cpp(232): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ElasticMaterial.cpp
+  ElasticMultiLinear.cpp
+  ElasticPPMaterial.cpp
+..\..\..\SRC\material\uniaxial\ElasticPPMaterial.cpp(295): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FRPConfinedConcrete.cpp
+  FatigueMaterial.cpp
+  FedeasMaterial.cpp
+  HardeningMaterial.cpp
+  HookGap.cpp
+..\..\..\SRC\material\uniaxial\HookGap.cpp(225): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HyperbolicGapMaterial.cpp
+  HystereticMaterial.cpp
+  ImpactMaterial.cpp
+  InitStrainMaterial.cpp
+  InitStressMaterial.cpp
+  KikuchiAikenHDR.cpp
+  KikuchiAikenLRB.cpp
+  Maxwell.cpp
+  MinMaxMaterial.cpp
+  ModIMKPeakOriented.cpp
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented.cpp(1311): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented.cpp(1312): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented.cpp(1313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented.cpp(1359): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  ModIMKPeakOriented02.cpp
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented02.cpp(1421): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented02.cpp(1422): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented02.cpp(1423): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPeakOriented02.cpp(1469): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ModIMKPinching.cpp
+..\..\..\SRC\material\uniaxial\ModIMKPinching.cpp(1426): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPinching.cpp(1427): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPinching.cpp(1470): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ModIMKPinching02.cpp
+..\..\..\SRC\material\uniaxial\ModIMKPinching02.cpp(1429): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPinching02.cpp(1430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\ModIMKPinching02.cpp(1473): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MultiLinear.cpp
+  NewUniaxialMaterial.cpp
+  OriginCentered.cpp
+..\..\..\SRC\material\uniaxial\OriginCentered.cpp(314): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ParallelMaterial.cpp
+  PathIndependentMaterial.cpp
+  Pinching4Material.cpp
+  PinchingLimitStateMaterial.cpp
+..\..\..\SRC\material\uniaxial\limitState\PinchingLimitStateMaterial.cpp(850): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PlasticDamageMaterial.cpp
+  RambergOsgoodSteel.cpp
+..\..\..\SRC\material\uniaxial\RambergOsgoodSteel.cpp(60): warning C4101: 'mData': unreferenced local variable
+..\..\..\SRC\material\uniaxial\RambergOsgoodSteel.cpp(235): warning C4101: 'o': unreferenced local variable
+..\..\..\SRC\material\uniaxial\RambergOsgoodSteel.cpp(393): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\RambergOsgoodSteel.cpp(397): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ReinforcingSteel.cpp
+  ResilienceLow.cpp
+  ResilienceMaterialHR.cpp
+  SAWSMaterial.cpp
+  SelfCenteringMaterial.cpp
+  SeriesMaterial.cpp
+  ShearPanelMaterial.cpp
+  SimpleFractureMaterial.cpp
+  Generating Code...
+  Compiling...
+  SmoothPSConcrete.cpp
+..\..\..\SRC\material\uniaxial\SmoothPSConcrete.cpp(545): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bilin02.cpp
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1774): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1775): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1776): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1777): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1778): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1779): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1780): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1781): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1782): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1783): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1784): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1785): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1786): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1787): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1788): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1897): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin02.cpp(1898): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Steel01.cpp
+  Steel01Thermal.cpp
+  Steel02.cpp
+..\..\..\SRC\material\uniaxial\Steel02.cpp(512): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Steel02.cpp(516): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Steel02Thermal.cpp
+..\..\..\SRC\material\uniaxial\Steel02Thermal.cpp(665): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Steel02Thermal.cpp(669): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Steel03.cpp
+  Steel2.cpp
+..\..\..\SRC\material\uniaxial\Steel2.cpp(681): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\Steel2.cpp(685): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SteelBRB.cpp
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(345): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(771): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(805): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(807): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(856): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(858): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(885): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(887): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1065): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1067): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1160): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1193): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1337): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1338): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1344): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1345): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1351): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1352): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1358): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1359): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1365): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\SteelBRB.cpp(1366): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  SteelMP.cpp
+  SteelMPF.cpp
+..\..\..\SRC\material\uniaxial\SteelMPF.cpp(1234): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelMPF.cpp(1239): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelMPF.cpp(1240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\SteelMPF.cpp(1270): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TclHyperbolicGapMaterial.cpp
+  TclModelBuilderUniaxialMaterialCommand.cpp
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2794): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2816): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2793): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2818): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2819): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\TclModelBuilderUniaxialMaterialCommand.cpp(2831): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  TclReinforcingSteel.cpp
+  TriMatrix.cpp
+  UniaxialJ2Plasticity.cpp
+  UniaxialMaterial.cpp
+..\..\..\SRC\material\uniaxial\UniaxialMaterial.cpp(239): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\UniaxialMaterial.cpp(240): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\UniaxialMaterial.cpp(247): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+..\..\..\SRC\material\uniaxial\UniaxialMaterial.cpp(248): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  ViscousDamper.cpp
+  ViscousMaterial.cpp
+  WrapperUniaxialMaterial.cpp
+..\..\..\SRC\material\uniaxial\WrapperUniaxialMaterial.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  Compiling...
+  pyUCLA.cpp
+..\..\..\SRC\material\uniaxial\pyUCLA.cpp(470): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FedeasBond1Material.cpp
+  FedeasBond2Material.cpp
+  FedeasConcr1Material.cpp
+  FedeasConcr2Material.cpp
+  FedeasConcr3Material.cpp
+  FedeasHardeningMaterial.cpp
+  FedeasHyster1Material.cpp
+  FedeasHyster2Material.cpp
+  FedeasSteel1Material.cpp
+  FedeasSteel2Material.cpp
+  TclFedeasMaterialCommand.cpp
+  DrainBilinearMaterial.cpp
+  DrainClough1Material.cpp
+  DrainClough2Material.cpp
+  DrainHardeningMaterial.cpp
+  DrainPinch1Material.cpp
+  TclDrainMaterialCommand.cpp
+  PyLiq1.cpp
+  PySimple1.cpp
+  Generating Code...
+  Compiling...
+  PySimple1Gen.cpp
+..\..\..\SRC\material\uniaxial\PY\PySimple1Gen.cpp(439): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\PY\PySimple1Gen.cpp(463): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  PySimple2.cpp
+  QzSimple1.cpp
+  QzSimple2.cpp
+  ShallowFoundationGen.cpp
+  TclPyTzQzMaterialCommand.cpp
+  TzLiq1.cpp
+  TzSimple1.cpp
+  TzSimple1Gen.cpp
+..\..\..\SRC\material\uniaxial\PY\TzSimple1Gen.cpp(376): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\PY\TzSimple1Gen.cpp(400): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  TzSimple2.cpp
+  Bilin.cpp
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1769): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1770): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1771): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1772): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1774): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1775): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1776): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1777): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1778): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1779): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1780): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1781): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1782): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1783): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1784): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1893): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\snap\Bilin.cpp(1894): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bilinear.cpp
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(137): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(155): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(250): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(251): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+..\..\..\SRC\material\uniaxial\snap\Bilinear.cpp(252): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Clough.cpp
+  CloughDamage.cpp
+  CloughHenry.cpp
+  Pinching.cpp
+  PinchingDamage.cpp
+  TclSnapMaterialCommand.cpp
+  AxialCurve.cpp
+..\..\..\SRC\material\uniaxial\limitState\limitCurve\AxialCurve.cpp(258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\material\uniaxial\limitState\limitCurve\AxialCurve.cpp(291): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\material\uniaxial\limitState\limitCurve\AxialCurve.cpp(294): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\SRC\material\uniaxial\limitState\limitCurve\AxialCurve.cpp(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  LimitCurve.cpp
+  Generating Code...
+  Compiling...
+  LimitStateMaterial.cpp
+  RotationShearCurve.cpp
+  ShearCurve.cpp
+  TclLimitState.cpp
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(531): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(548): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(578): warning C4804: '<': unsafe use of type 'bool' in operation
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(596): warning C4804: '<': unsafe use of type 'bool' in operation
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(550): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(551): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\uniaxial\limitState\TclLimitState.cpp(560): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ThreePointCurve.cpp
+  WrapperLimitCurve.cpp
+..\..\..\SRC\material\uniaxial\limitState\limitCurve\WrapperLimitCurve.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ArctangentBackbone.cpp
+  BackboneMaterial.cpp
+  HystereticBackbone.cpp
+  ManderBackbone.cpp
+  RaynorBackbone.cpp
+  ReeseSandBackbone.cpp
+  ReeseSoftClayBackbone.cpp
+  ReeseStiffClayBelowWS.cpp
+  TclModelBuilderBackboneCommand.cpp
+  TrilinearBackbone.cpp
+  BeamFiberMaterial2d.cpp
+  BoundingCamClay.cpp
+..\..\..\SRC\material\nD\UWmaterials\BoundingCamClay.cpp(1111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BoundingCamClay3D.cpp
+  BoundingCamClayPlaneStrain.cpp
+  Generating Code...
+f:\openseesr6236\src\material\uniaxial\backbone\raynorbackbone.cpp(80): warning C4715: 'RaynorBackbone::getStress': not all control paths return a value
+  Compiling...
+  CapPlasticity.cpp
+  ConcreteS.cpp
+  ContactMaterial2D.cpp
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial2D.cpp(471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial2D.cpp(497): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ContactMaterial3D.cpp
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial3D.cpp(578): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial3D.cpp(579): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial3D.cpp(594): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+..\..\..\SRC\material\nD\UWmaterials\ContactMaterial3D.cpp(622): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CycLiqCP.cpp
+..\..\..\SRC\material\nD\CycLiqCP.cpp(418): warning C4101: 'G0ep': unreferenced local variable
+..\..\..\SRC\material\nD\CycLiqCP.cpp(442): warning C4101: 'wr1': unreferenced local variable
+..\..\..\SRC\material\nD\CycLiqCP.cpp(433): warning C4101: 'epsvc02': unreferenced local variable
+..\..\..\SRC\material\nD\CycLiqCP.cpp(432): warning C4101: 'pmin2': unreferenced local variable
+..\..\..\SRC\material\nD\CycLiqCP.cpp(1102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CycLiqCP3D.cpp
+..\..\..\SRC\material\nD\CycLiqCP3D.cpp(306): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CycLiqCPPlaneStrain.cpp
+..\..\..\SRC\material\nD\CycLiqCPPlaneStrain.cpp(280): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CycLiqCPSP.cpp
+..\..\..\SRC\material\nD\CycLiqCPSP.cpp(1476): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CycLiqCPSP3D.cpp
+..\..\..\SRC\material\nD\CycLiqCPSP3D.cpp(324): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CycLiqCPSPPlaneStrain.cpp
+..\..\..\SRC\material\nD\CycLiqCPSPPlaneStrain.cpp(289): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DruckerPrager.cpp
+  DruckerPrager3D.cpp
+  DruckerPragerPlaneStrain.cpp
+  ElasticIsotropicBeamFiber2d.cpp
+  ElasticOrthotropicMaterial.cpp
+  ElasticOrthotropicThreeDimensional.cpp
+  InitStressNDMaterial.cpp
+  InitialStateAnalysisWrapper.cpp
+  ManzariDafalias.cpp
+  ManzariDafalias3D.cpp
+  Generating Code...
+  Compiling...
+  ManzariDafaliasPlaneStrain.cpp
+  NDMaterial.cpp
+  PlaneStressSimplifiedJ2.cpp
+..\..\..\SRC\material\nD\PlaneStressSimplifiedJ2.cpp(94): warning C4305: 'argument': truncation from '__int64' to 'int'
+..\..\..\SRC\material\nD\PlaneStressSimplifiedJ2.cpp(94): warning C4309: 'argument': truncation of constant value
+  PlaneStressUserMaterial.cpp
+  PlateFromPlaneStressMaterial.cpp
+  PlateRebarMaterial.cpp
+  SimplifiedJ2.cpp
+  TclModelBuilderNDMaterialCommand.cpp
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(796): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(858): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(958): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1067): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1673): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1697): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1672): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1699): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1700): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\SRC\material\nD\TclModelBuilderNDMaterialCommand.cpp(1712): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  WrapperNDMaterial.cpp
+..\..\..\SRC\material\nD\WrapperNDMaterial.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ElasticIsotropicAxiSymm.cpp
+  ElasticIsotropicBeamFiber.cpp
+  ElasticIsotropicMaterial.cpp
+  ElasticIsotropicPlaneStrain2D.cpp
+  ElasticIsotropicPlaneStress2D.cpp
+  ElasticIsotropicPlateFiber.cpp
+  ElasticIsotropicThreeDimensional.cpp
+  PressureDependentElastic3D.cpp
+  J2AxiSymm.cpp
+..\..\..\SRC\material\nD\J2AxiSymm.cpp(316): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  J2PlaneStrain.cpp
+..\..\..\SRC\material\nD\J2PlaneStrain.cpp(316): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  J2PlaneStress.cpp
+..\..\..\SRC\material\nD\J2PlaneStress.cpp(361): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  J2Plasticity.cpp
+..\..\..\SRC\material\nD\J2Plasticity.cpp(837): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  J2PlateFiber.cpp
+..\..\..\SRC\material\nD\J2PlateFiber.cpp(390): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  J2ThreeDimensional.cpp
+  FluidSolidPorousMaterial.cpp
+..\..\..\SRC\material\nD\soil\FluidSolidPorousMaterial.cpp(444): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\FluidSolidPorousMaterial.cpp(445): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\FluidSolidPorousMaterial.cpp(449): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MultiYieldSurface.cpp
+  MultiYieldSurfaceClay.cpp
+..\..\..\SRC\material\nD\soil\MultiYieldSurfaceClay.cpp(942): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\MultiYieldSurfaceClay.cpp(943): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\MultiYieldSurfaceClay.cpp(1493): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\MultiYieldSurfaceClay.cpp(2188): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\MultiYieldSurfaceClay.cpp(2415): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PressureDependMultiYield.cpp
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1020): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1021): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1024): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1782): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1785): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield.cpp(1786): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PressureDependMultiYield02.cpp
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1152): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1936): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1939): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureDependMultiYield02.cpp(1940): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PressureIndependMultiYield.cpp
+..\..\..\SRC\material\nD\soil\PressureIndependMultiYield.cpp(714): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureIndependMultiYield.cpp(715): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureIndependMultiYield.cpp(716): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\soil\PressureIndependMultiYield.cpp(1305): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  T2Vector.cpp
+  TclUpdateMaterialStageCommand.cpp
+  BeamFiberMaterial.cpp
+  PlaneStrainMaterial.cpp
+  PlaneStressMaterial.cpp
+  PlateFiberMaterial.cpp
+  FeapMaterial.cpp
+  FeapMaterial01.cpp
+  FeapMaterial02.cpp
+  FeapMaterial03.cpp
+  TclFeapMaterialCommand.cpp
+  Generating Code...
+  Compiling...
+  MultiaxialCyclicPlasticity.cpp
+..\..\..\SRC\material\nD\cyclicSoil\MultiaxialCyclicPlasticity.cpp(749): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\SRC\material\nD\cyclicSoil\MultiaxialCyclicPlasticity.cpp(1202): warning C4102: 'LABEL6': unreferenced label
+  MultiaxialCyclicPlasticity3D.cpp
+  MultiaxialCyclicPlasticityAxiSymm.cpp
+  MultiaxialCyclicPlasticityPlaneStrain.cpp
+  ConcreteL01.cpp
+  ConcreteZ01.cpp
+  FAFourSteelPCPlaneStress.cpp
+  FAFourSteelRCPlaneStress.cpp
+  FAPrestressedConcretePlaneStress.cpp
+  FAReinforcedConcretePlaneStress.cpp
+  PrestressedConcretePlaneStress.cpp
+  RAFourSteelPCPlaneStress.cpp
+  RAFourSteelRCPlaneStress.cpp
+  ReinforcedConcretePlaneStress.cpp
+  SteelZ01.cpp
+  TendonL01.cpp
+..\..\..\SRC\material\nD\reinforcedConcretePlaneStress\TendonL01.cpp(1227): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Bidirectional.cpp
+  ElasticMembranePlateSection.cpp
+..\..\..\SRC\material\section\ElasticMembranePlateSection.cpp(332): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ElasticPlateSection.cpp
+..\..\..\SRC\material\section\ElasticPlateSection.cpp(261): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ElasticSection2d.cpp
+  Generating Code...
+  Compiling...
+  ElasticSection3d.cpp
+  ElasticShearSection2d.cpp
+  ElasticShearSection3d.cpp
+  ElasticTubeSection3d.cpp
+  FiberSection2d.cpp
+  FiberSection2dThermal.cpp
+  FiberSection3d.cpp
+  FiberSectionGJ.cpp
+  GenericSection1d.cpp
+  Isolator2spring.cpp
+  LayeredShellFiberSection.cpp
+  MembranePlateFiberSection.cpp
+  NDFiber2d.cpp
+  NDFiber3d.cpp
+  NDFiberSection2d.cpp
+  NDFiberSection3d.cpp
+  ParallelSection.cpp
+  SectionAggregator.cpp
+  SectionForceDeformation.cpp
+  TclModelBuilderSectionCommand.cpp
+  Generating Code...
+  Compiling...
+  Cell.cpp
+  CircSectionCell.cpp
+  QuadCell.cpp
+  CircPatch.cpp
+  Patch.cpp
+  QuadPatch.cpp
+  ReinfBar.cpp
+  CircReinfLayer.cpp
+  ReinfLayer.cpp
+  StraightReinfLayer.cpp
+  FiberSectionRepr.cpp
+  SectionRepres.cpp
+  Fiber.cpp
+  UniaxialFiber2d.cpp
+  UniaxialFiber3d.cpp
+  TclModelBuilderYS_SectionCommand.cpp
+  YS_Section2D01.cpp
+  YS_Section2D02.cpp
+  YieldSurfaceSection2d.cpp
+  RCSectionIntegration.cpp
+  Generating Code...
+  Compiling...
+  RCTBeamSectionIntegration.cpp
+  SectionIntegration.cpp
+  WideFlangeSectionIntegration.cpp
+  SoilFootingSection2d.cpp
+..\..\..\SRC\material\section\yieldSurface\SoilFootingSection2d.cpp(503): warning C4101: 'hNew1': unreferenced local variable
+  Attalla2D.cpp
+  ElTawil2D.cpp
+  ElTawil2DUnSym.cpp
+  Hajjar2D.cpp
+  NullYS2D.cpp
+  Orbison2D.cpp
+  TclModelBuilderYieldSurfaceBCCommand.cpp
+  YieldSurface_BC.cpp
+  YieldSurface_BC2D.cpp
+..\..\..\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC2D.cpp(284): warning C4101: 'fy': unreferenced local variable
+..\..\..\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC2D.cpp(284): warning C4101: 'fx': unreferenced local variable
+  BkStressLimSurface2D.cpp
+  BoundingSurface2D.cpp
+  CombinedIsoKin2D01.cpp
+  CombinedIsoKin2D02.cpp
+  Isotropic2D01.cpp
+  Kinematic2D01.cpp
+  Kinematic2D02.cpp
+  Generating Code...
+  Compiling...
+  NullEvolution.cpp
+  PeakOriented2D01.cpp
+  PeakOriented2D02.cpp
+  PlasticHardening2D.cpp
+  TclModelBuilderYS_EvolutionCommand.cpp
+  YS_Evolution.cpp
+  YS_Evolution2D.cpp
+  ExponReducing.cpp
+  MultiLinearKp.cpp
+  NullPlasticMaterial.cpp
+  PlasticHardeningMaterial.cpp
+  TclModelBuilderYSPlasticMaterialCommand.cpp
+  Material.cpp
+  Generating Code...
+  PD1.c
+  material.vcxproj -> F:\OpenSeesR6236\Win64\proj\material\.\..\..\lib\debug\material.lib

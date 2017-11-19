@@ -1,0 +1,14 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  umfpackC.lib(SuiteSparse_config.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library .\..\..\bin\OpenSees.lib and object .\..\..\bin\OpenSees.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LIBCMTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+libifcoremt.lib(for_diags_intel.obj) : error LNK2001: unresolved external symbol vsprintf
+libirc.lib(irc_msg_support.obj) : error LNK2001: unresolved external symbol vsprintf
+libifcoremt.lib(for_diags_intel.obj) : error LNK2001: unresolved external symbol __iob_func
+libifcoremt.lib(for_nt_open_proc.obj) : error LNK2001: unresolved external symbol __iob_func
+libm.lib(libm_error.obj) : error LNK2001: unresolved external symbol __iob_func
+libm.lib(libm_error.obj) : error LNK2001: unresolved external symbol _snprintf
+libirc.lib(tbk_display.obj) : error LNK2001: unresolved external symbol _snprintf
+.\..\..\bin\OpenSees.exe : fatal error LNK1120: 3 unresolved externals
